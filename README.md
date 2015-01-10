@@ -13,19 +13,19 @@ Syllabus
 
 The basic module aims at giving an extensive overview of basic concepts of intellectual property law in in the information society divided along traditional areas of law, whereby special emphasis is given to the European dimension. Additionally, this module will also give an overview of the challenges persistent in the traditional intellectual property regime such as issues of cross border trade, parallel import and exhaustion, or the intersections with competition law. The following themes will be covered in this first part:
 
-#####Law and economics of intellectual property rights
-#####Copyright and related rights
-#####Patents and utility models
-#####Trademarks and related rights
+* Law and economics of intellectual property rights
+* Copyright and related rights
+* Patents and utility models
+* Trademarks and related rights
 
 ###Advanced module
 
 The advanced module represents a phenomenological approach to the course subject and will give students the opportunity to study and discuss selected current cutting-edge issues at the intersection of law, science and technology. This part of the course enables students to tackle interesting and, occasionally, controversial cases, discuss and present divergent opinions on emerging issues. The themes cover internet technology and regulation, standard setting, IP business models and management, IPR and innovation, and include topics such as:
 
-#####Content licensing (online music, open data, creative commons)
-#####Internet governance, content regulation and filtering
-#####3D printing and legal issues
-#####Standard setting and digital wars, FRAND
-#####Patent trolls / business model and IPR management
-#####Alternative methods for promoting innovation (e.g. open standard, open source, user-generated law etc.)
+* Content licensing (online music, open data, creative commons)
+* Internet governance, content regulation and filtering
+* 3D printing and legal issues
+* Standard setting and digital wars, FRAND
+* Patent trolls / business model and IPR management
+* Alternative methods for promoting innovation (e.g. open standard, open source, user-generated law etc.)
  
