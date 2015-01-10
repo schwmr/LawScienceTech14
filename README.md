@@ -11,18 +11,21 @@ Syllabus
 
 ###Basic module
 
-#####Session 1: Introduction
-#####Session 2: Copyright & related rights (I)
-#####Session 3: Copyright & related rights (II)
-#####Session 4: Patents (I)
-#####Session 5: Patents & utility models (II)
-#####Session 6: Trade secrets. Design law
-#####Session 7: Trademarks
+The basic module aims at giving an extensive overview of basic concepts of intellectual property law in in the information society divided along traditional areas of law, whereby special emphasis is given to the European dimension. Additionally, this module will also give an overview of the challenges persistent in the traditional intellectual property regime such as issues of cross border trade, parallel import and exhaustion, or the intersections with competition law. The following themes will be covered in this first part:
+
+#####Law and economics of intellectual property rights
+#####Copyright and related rights
+#####Patents and utility models
+#####Trademarks and related rights
 
 ###Advanced module
 
-#####Session 8: The changing landscape of patent law
-#####Session 9: Limits to IP protection. Antitrust, Technology and Innovation
-#####Session 10: Internet and Governance in the Information Society
-#####Session 11: More on Internet & 3D Printing
-#####Session 12: Alternatives to IP protection
+The advanced module represents a phenomenological approach to the course subject and will give students the opportunity to study and discuss selected current cutting-edge issues at the intersection of law, science and technology. This part of the course enables students to tackle interesting and, occasionally, controversial cases, discuss and present divergent opinions on emerging issues. The themes cover internet technology and regulation, standard setting, IP business models and management, IPR and innovation, and include topics such as:
+
+#####Content licensing (online music, open data, creative commons)
+#####Internet governance, content regulation and filtering
+#####3D printing and legal issues
+#####Standard setting and digital wars, FRAND
+#####Patent trolls / business model and IPR management
+#####Alternative methods for promoting innovation (e.g. open standard, open source, user-generated law etc.)
+ 
