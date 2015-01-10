@@ -6,8 +6,8 @@ Public repository for the 2014 edition of the *"Law, Science &amp; Technology in
 Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 
-Syllabus
-========
+About the course
+================
 
 This graduate course gives a comprehensive overview of current challenges in the information society from a legal perspective. It addresses current legal, regulatory and policy issues of intellectual property laws associated with innovation in science, Internet and related emerging technologies in the information society. The course has its foundations in the intellectual property framework but will touch upon related legal and interdisciplinary themes such as communication, Internet or privacy law, where appropriate. The course is divided into two major methodological parts: 
 
